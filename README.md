@@ -6,4 +6,4 @@ O projeto se trata de uma calculadora em Java, ela é capaz de realizar funçõe
 
 ## Objetivo
 
-O projeto foi solicidade pelo professor Daniel Ohata da matéria de Qualidade e Teste de Software para compor a nota da Avaliação Continuada I e para fixar o conhecimento sobre teste de software lecionados em sala.
+O projeto foi solicitado pelo professor Daniel Ohata da matéria de Qualidade e Teste de Software para compor a nota da Avaliação Continuada I II, Avaliação Final e para fixar o conhecimento sobre teste de software lecionados em sala.
