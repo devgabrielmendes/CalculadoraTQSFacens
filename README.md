@@ -6,7 +6,7 @@ O projeto se trata de uma calculadora em Java, ela é capaz de realizar funçõe
 
 ## Versão Teste JUnit
 
-A versão com testes automatizados está localizana na única branch disponível do projeto.
+A versão com testes automatizados está localizana na única branch disponível do projeto na pasta CalculadoraTSQFacens.
 
 ## Objetivo
 
